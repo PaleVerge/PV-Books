@@ -27,7 +27,7 @@
 - [《你不知道的JavaScript（中卷）》(EPUB)](./Frontend/Javascript/你不知道的JavaScript（中卷%29.epub)
 - [《你不知道的JavaScript（下卷）》(EPUB)](./Frontend/Javascript/你不知道的JavaScript（下卷）.epub)
 - [《JavaScript高级程序设计（第3版）》](./Frontend/Javascript/【JavaScript高级程序设计（第3版）】中文%20高清%20.pdf)
-- [《JavaScript高级程序设计(第3版)》](./Frontend/Javascript/JavaScript高级程序设计(第3版).pdf)
+- [《JavaScript高级程序设计（第3版）》](./Frontend/Javascript/JavaScript高级程序设计(第3版).pdf)
 - [《JavaScript高级程序设计（第4版）》](./Frontend/Javascript/JavaScript高级程序设计（第4版）.pdf)
 - [《JavaScript权威指南(第6版)》](./Frontend/Javascript/JavaScript权威指南(第6版).pdf)
 - [《JavaScript语言精粹》](./Frontend/Javascript/JavaScript语言精粹.pdf)
@@ -239,7 +239,6 @@
 - [《Pro Git中文版》](./Git/ProGit中文版.pdf)
 - [《GitHub入门与实践》](./Git/GitHub入门与实践.pdf)
 - [《Git权威指南》](./Git/Git权威指南.pdf)
-- [《专业git中文》](./Git/专业git中文.pdf)
 
 ## Docker
 
